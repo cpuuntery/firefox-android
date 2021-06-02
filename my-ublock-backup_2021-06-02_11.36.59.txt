@@ -1,0 +1,54 @@
+{
+  "timeStamp": 1622623019372,
+  "version": "1.35.2",
+  "userSettings": {
+    "externalLists": "https://www.fanboy.co.nz/enhancedstats.txt",
+    "importedLists": [
+      "https://www.fanboy.co.nz/enhancedstats.txt"
+    ],
+    "webrtcIPAddressHidden": true
+  },
+  "selectedFilterLists": [
+    "https://www.fanboy.co.nz/enhancedstats.txt",
+    "user-filters",
+    "ublock-filters",
+    "ublock-badware",
+    "ublock-privacy",
+    "ublock-abuse",
+    "ublock-unbreak",
+    "adguard-generic",
+    "adguard-mobile",
+    "easylist",
+    "adguard-spyware",
+    "easyprivacy",
+    "fanboy-enhanced",
+    "urlhaus-1",
+    "spam404-0",
+    "adguard-annoyance",
+    "adguard-social",
+    "fanboy-thirdparty_social",
+    "fanboy-cookiemonster",
+    "fanboy-annoyance",
+    "fanboy-social",
+    "ublock-annoyances",
+    "dpollock-0",
+    "mvps-0",
+    "plowe-0",
+    "ara-0"
+  ],
+  "hiddenSettings": {},
+  "whitelist": [
+    "about-scheme",
+    "chrome-extension-scheme",
+    "chrome-scheme",
+    "edge-scheme",
+    "moz-extension-scheme",
+    "opera-scheme",
+    "vivaldi-scheme",
+    "wyciwyg-scheme"
+  ],
+  "dynamicFilteringString": "behind-the-scene * * noop\nbehind-the-scene * inline-script noop\nbehind-the-scene * 1p-script noop\nbehind-the-scene * 3p-script noop\nbehind-the-scene * 3p-frame noop\nbehind-the-scene * image noop\nbehind-the-scene * 3p noop",
+  "urlFilteringString": "",
+  "hostnameSwitchesString": "no-large-media: behind-the-scene false\nno-csp-reports: * true",
+  "userFilters": "*$csp=manifest-src 'none'\n\n*##.igtranslator-main-div:style(left: 0 !important)\n\n! 2020-11-25 https://m.fanfiction.net\nm.fanfiction.net###cookie_notice\n\n! 2020-11-25 https://translate.google.com\ntranslate.google.com##.show-panel.at-promo.ad-panel\n"
+}

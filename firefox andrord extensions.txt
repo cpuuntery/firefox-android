@@ -1,0 +1,12 @@
+1- rename your *.xpi file one of these names in the list 
+
+addon@darkreader.org.xpi
+adguardadblocker@adguard.com.xpi
+firefox@ghostery.com.xpi
+foxyproxy@eric.h.jung.xpi
+https-everywhere@eff.org.xpi
+leechblockng@proginosko.com.xpi
+
+2- install one of these extensions and then overwrite the file with your renamed file by following step 3 this is very important
+
+3- copy the xpi file to "/data/data/io.github.forkmaintainers.iceraven/files/mozilla/*.default/extensions"
